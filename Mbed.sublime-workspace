@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"IN",
+				"include"
+			],
+			[
+				"INCLU",
+				"Including"
+			],
+			[
+				"Me",
+				"MenuItemInline	class"
+			],
+			[
+				"list",
+				"list_display"
+			],
+			[
+				"cl",
+				"class	keyword"
+			],
+			[
+				"i",
+				"IntegerField"
+			],
+			[
+				"T",
+				"Test"
+			],
+			[
+				"random",
+				"_random	module"
+			],
+			[
+				"r",
+				"random	statement"
+			],
+			[
+				"ra",
+				"random	module"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"fu",
+				"full_name"
+			],
+			[
+				"clean_",
+				"cleaned_data"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"a",
+				"auto_now"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git",
+			"print(\"HEllo\")",
+			"s",
+			"os.path.dirname(__file__)",
+			"os.path.dirname(_file_)",
+			"os.path.dirname()",
+			"os.path.dirname",
+			"os.path",
+			"os.dirname",
+			"from django.core.wsgi import get_wsgi_application",
+			"import os",
+			"print (\"HI\")",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cropse/Desktop/Mbed_KeyObject"
+	],
+	"file_history":
+	[
+		"/Users/cropse/Desktop/lunch/lunch/lunch/urls.py",
+		"/Users/cropse/Desktop/lunch/lunch/stores/views.py",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/store/store_detail.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/store/store_list.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/store/base.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/tests.py",
+		"/Users/cropse/Desktop/lunch/lunch/pages/templates/pages/home.html",
+		"/Users/cropse/Desktop/lunch/lunch/pages/views.py",
+		"/Users/cropse/Desktop/lunch/lunch/stores/urls.py",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/base.html",
+		"/Users/cropse/Desktop/lunch/lunch/base/views.py",
+		"/Users/cropse/Desktop/lunch/lunch/pages/templates/pages/base.html",
+		"/Users/cropse/Desktop/TEST 2.cpp",
+		"/Users/cropse/Desktop/TEST.cpp",
+		"/Users/cropse/Desktop/lunch/lunch/base/templates/base.html",
+		"/Users/cropse/Desktop/lunch/lunch/lunch/settings.py",
+		"/Users/cropse/Desktop/lunch/lunch/pages/templates/base.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/models.py",
+		"/Users/cropse/Desktop/blinky/source/app.cpp",
+		"/Users/cropse/Desktop/lunch/lunch/base/templates/home.html",
+		"/Users/cropse/Desktop/lunch/lunch/pages/templates/home.html",
+		"/Users/cropse/Desktop/lunch/lunch/pages/tests.py",
+		"/Users/cropse/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/cropse/Desktop/lunch/lunch/stores/admin.py",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/store_list.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/store_detail.html",
+		"/Users/cropse/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cropse/Desktop/lunch/lunch/stores/templates/home.html",
+		"/Users/cropse/Desktop/lunch/lunch/stores/migrations/0001_initial.py",
+		"/Users/cropse/Desktop/Django18/my_project/Newletter/forms.py",
+		"/Users/cropse/Desktop/Django18/my_project/Newletter/admin.py",
+		"/Users/cropse/Desktop/Django18/my_project/Newletter/models.py",
+		"/Users/cropse/Desktop/Django18/my_project/Newletter/django.sublime-project",
+		"/Users/cropse/Desktop/Django18/my_project/Newletter/views.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto",
+			"int",
+			"auto",
+			"Charfield",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Mbed.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Python/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

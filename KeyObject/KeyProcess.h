@@ -1,3 +1,8 @@
+/** @file KeyProcess.h
+  * @brief  All the keytype enter to this Object, parser Key trigger type 
+
+  * @author Cropse
+  * @update date 2015/9/16 */
 #ifndef MBED_KEYPROCESS_H
 #define MBED_KEYPROCESS_H
 #include "mbed.h"
